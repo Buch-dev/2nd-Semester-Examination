@@ -1,0 +1,3 @@
+https://jade-mochi-610025.netlify.app/
+https://jade-mochi-610025.netlify.app/custom-counter
+https://jade-mochi-610025.netlify.app/reducer-counter
